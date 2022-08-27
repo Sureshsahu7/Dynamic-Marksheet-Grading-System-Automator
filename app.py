@@ -12,7 +12,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return render_template('index.html')
-@app.route("/Upload_files", methods=["POST"])
+@app.route("index.html", methods=["POST"])
 def upload():
     if request.method=="POST":
         for file in request.files:
