@@ -78,7 +78,7 @@ Activate env and Install Flask
   ```
   
 
-### Run
+### Setup
 
 1. Clone the repo
    ```sh
