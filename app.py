@@ -12,7 +12,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return render_template('index.html')
-@app.route("index.html", methods=["POST"])
+@app.route("/", methods=["POST"])
 def upload():
     if request.method=="POST":
         for file in request.files:
@@ -22,7 +22,7 @@ def upload():
 
 
 
-        return redirect('index.html')
+         return render_template('index.html')
 @app.route("/generatemarksheet", methods=["POST"])
 def generating_marksheet():
 
