@@ -26,6 +26,10 @@
 
 ![portfolio3](https://user-images.githubusercontent.com/85033183/187027874-7b526d1a-02e3-4351-97fc-05e2846fe9b6.png)
 
+
+ [CLICK HERE TO WATCH THE PROCESS IN YOUTUBE]( https://www.youtube.com/watch?v=wYvzRWSkY_s)
+ 
+
 Using Flask,designed a grading module for generating marksheet via Google quiz with Dynamic negative marking, and sending marksheets via mail to respective students.
 With a given .csv file that contains marks for each roll number and the individual options marked by each students  this  Grading module generates
 an individual marksheet for each student and a concise Marksheet of whole batch of students 
@@ -99,6 +103,7 @@ Activate env and Install Flask
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Output Data Acquired
 
    🔳 Generate Roll Number wise marksheet 🔳 
@@ -111,20 +116,18 @@ Activate env and Install Flask
 
 The generate concise marksheet option is given that generate all the marked options as well as marks before and after -ve computation
 
-All the output files will be Generated in the sample_output folder.
-
   🔳 send email 🔳 
   
  Email address is located from the response sheet csv file of Google Form.when you click on Send Email button, it will send a marksheet to respective roll_no's email
  address with the marksheet of that roll number.
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+All the output files will be Generated in the sample_output folder.
+
+![Screenshot (61)](https://user-images.githubusercontent.com/85033183/187036014-38570bc5-760c-45fc-9431-d901fdb94f32.png)
 
 
- video link: https://www.youtube.com/watch?v=wYvzRWSkY_s
+
 
 
 
