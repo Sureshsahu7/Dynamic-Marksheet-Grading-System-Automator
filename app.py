@@ -22,7 +22,7 @@ def upload():
 
 
 
-         return render_template('index.html')
+        return redirect('/')
 @app.route("/generatemarksheet", methods=["POST"])
 def generating_marksheet():
 
