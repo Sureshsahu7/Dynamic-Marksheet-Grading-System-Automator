@@ -59,14 +59,14 @@ an individual marksheet for each student and a concise Marksheet of whole batch 
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[css.com]: [https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+[css.com]:https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [css-url]: https://getbootstrap.com
 [html.com]: [https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[html-url]:	
+[html-url]:	https://getbootstrap.com
 [Js.com]: [https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[Js-url]: 
+[Js-url]: https://getbootstrap.com
 [python.com]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-[python-url]: 
+[python-url]: https://getbootstrap.com
 [flask.com]: [https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 [flask-url]: https://getbootstrap.com
 
